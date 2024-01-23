@@ -1,5 +1,6 @@
 # OCS Inventory | Inventario de equipos y software con OCS en Docker
-## 
+## ![banniere-ocs-without-ng-01-1-300x136](https://github.com/JLalib/docker-ocsinventory/assets/57844755/3b46dea7-325e-4a90-abb4-0f42836641e7)
+
 docker-compose de OCS Inventory
 ## Instalación
 Primer paso <br><p>
