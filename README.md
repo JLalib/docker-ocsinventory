@@ -27,9 +27,9 @@ Agente Unix/Linux 2.10.0
 
 https://github.com/OCSInventory-NG/UnixAgent/releases/download/v2.10.0/Ocsinventory-Unix-Agent-2.10.0.tar.gz
 
-Repositorios Unix/Linux 
+Repositorios Unix/Linux Redhat 
 
-Redhat https://rpm.ocsinventory-ng.org/
+https://rpm.ocsinventory-ng.org/
 
 Agente MacOS X 2.10.0 
 
