@@ -9,6 +9,13 @@ Crea o copia el fichero docker-compose.yml e inicia el contenedor. <br><p>
 ### Acceso vía web
 http://localhost:8080/ocsreports<p>
 
+<object width="425" height="350">
+<param name="movie" value="[http://www.youtube.com/v/aAt0l5nxoxo](https://youtu.be/uWbiu-B1PFA)"></param>
+<param name="wmode" value="transparent"></param>
+<embed src="https://youtu.be/uWbiu-B1PFA" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350">
+</embed>
+</object>
+
 ### Instaladores de los agentes
 
 Agente de Windows 2.10.1.0 (64 bits)
