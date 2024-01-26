@@ -11,7 +11,7 @@ http://localhost:8080/ocsreports<p>
 
 ### Instaladores de los agentes
 
-Agente de Windows 2.10.1.0 (64 bits) 
+Agente de Windows 2.10.1.0 (64 bits) <p>
 https://github.com/OCSInventory-NG/WindowsAgent/releases/download/2.10.1.0/OCS-Windows-Agent-2.10.1.0_x64.zip
 
 Agente de Windows 2.10.1.0 (32 bits) 
